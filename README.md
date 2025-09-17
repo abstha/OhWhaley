@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of OhWhaley is to ...
+The goal of OhWhaley is to generate a random whale phrase.
 
 ## Installation
 
